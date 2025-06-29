@@ -28,7 +28,9 @@ A simple Blog Post Manager built using **PHP**, **MySQL**, **HTML**, **CSS**, an
 ---
 
 ## 📂 Folder Structure
+
 02-php-mysql-crud/
+
 ├── index.php # Homepage - list all posts
 
 ├── add.php # Form to add a new post
