@@ -33,7 +33,7 @@ A simple Blog Post Manager built using **PHP**, **MySQL**, **HTML**, **CSS**, an
 ├── index.php # Homepage - list all posts
 ├── add.php # Form to add a new post
 ├── insert.php # PHP logic to insert post
-├── edit.php # Edit form for post
+├── edit.php # Edit form for a post
 ├── update.php # Logic to update post
 ├── delete.php # Logic to delete post
 ├── db.php # MySQL DB connection
