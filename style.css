@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    margin: 40px;
+}
+
+.post {
+    margin-bottom: 20px;
+}
+
+input, textarea, button {
+    width: 300px;
+    padding: 10px;
+}
